@@ -20,6 +20,11 @@
 //Pushear los cambios al repositorio remoto.
 
 echo 'Nombre : ' . $_POST['valornombre'];
+echo '<hr>';
+echo 'Apellido : ' . $_POST['valorapellido'];
+
+?>
+
 
 
 
